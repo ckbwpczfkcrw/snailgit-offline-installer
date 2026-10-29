@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 SnailGit Free Installer** — SnailGit is a macOS Git client available in the Mac App Store with Finder integration for browsing repository status. Works without internet access, no account required. Full offline installation.
+**💻 SnailGit Free Installer** — SnailGit is a macOS Git client that integrates into Finder as a quick-access tool for Git operations. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About SnailGit
 
-SnailGit is a macOS Git client available in the Mac App Store with Finder integration for browsing repository status. It provides a visual commit history, branch management, and standard Git operations in a native macOS application.
+SnailGit is a macOS Git client that integrates into Finder as a quick-access tool for Git operations. Perform commits, pull, push, and view history directly from the macOS menu bar without opening a full Git GUI application. SnailGit's lightweight, always-available design makes it convenient for occasional Git operations without switching context to a dedicated Git client.
 
 ---
 
 ## ❌ Problem: SnailGit is hard to access
 
-- **macOS Only** — No Windows or Linux version
-- **Paid App** — Requires purchase from Mac App Store
-- **Limited Advanced Features** — Missing some advanced Git capabilities of desktop-only clients
-- **Mac App Store Sandboxing** — Some Git operations may be restricted by App Store sandboxing
+- **macOS Only** — Finder/menu bar integration specific to macOS
+- **Limited Features** — Lightweight design not suitable for complex Git operations
+- **Supplementary Tool** — Best used alongside a more full-featured Git client
+- **Commercial License** — Paid application from the Mac App Store
 
 ---
 
@@ -121,7 +121,7 @@ SnailGit is a macOS Git client available in the Mac App Store with Finder integr
 
 ---
 
-**SnailGit Free Installer** — SnailGit is a macOS Git client available in the Mac App Store with Finder integration for browsing repository status. Install without internet connection today!
+**SnailGit Free Installer** — SnailGit is a macOS Git client that integrates into Finder as a quick-access tool for Git operations. Install without internet connection today!
 
 <div align="center">
 
